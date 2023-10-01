@@ -7,5 +7,5 @@ A simple react app displaying countries from the API https://dhis2-app-course.if
 5. Continent selector: checkboxes to filter out the countries from chosen continents
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
