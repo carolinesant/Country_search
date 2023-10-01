@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh; 
+  margin: 0;
+}
+
+table {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+}
+
+td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: center;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+td {
+  border: 1px solid #000;
+}
+
+th {
+  background-color: #2a4e68c1; 
+  color: #fff;
+  font-weight: bold;
+
+}
+
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+#continent_checkboxes {
+  margin: 20px;
+
+}
+
+.pagination button {
+  border:none;
+  font-size: 1.2em;
+  background-color: transparent;
+}
